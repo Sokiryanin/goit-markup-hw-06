@@ -890,9 +890,11 @@ margin-left: 7px;
   transition-property: background-color, color, box-shadow;
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
 
 /*--------PORTFOLIO---------*/
 
+.test 
 .header-portfolio {
   border-bottom: 1px solid #ECECEC;
 }
